@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosInformatique.TerminalServices", "Sources\TerminalServices\PosInformatique.TerminalServices.csproj", "{03E7CBF2-50A5-410B-924F-3ED0F28F56CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosInformatique.TerminalServices.WindowsFormsExample", "Sources\TerminalServices.WindowsFormsExample\PosInformatique.TerminalServices.WindowsFormsExample.csproj", "{07CCB293-6FAE-46DA-AC83-3CB8400B31D4}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs09.codeplex.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Sources\\TerminalServices\\PosInformatique.TerminalServices.csproj
+		SccProjectName1 = Sources/TerminalServices
+		SccLocalPath1 = Sources\\TerminalServices
+		SccProjectUniqueName2 = Sources\\TerminalServices.WindowsFormsExample\\PosInformatique.TerminalServices.WindowsFormsExample.csproj
+		SccProjectName2 = Sources/TerminalServices.WindowsFormsExample
+		SccLocalPath2 = Sources\\TerminalServices.WindowsFormsExample
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E7CBF2-50A5-410B-924F-3ED0F28F56CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E7CBF2-50A5-410B-924F-3ED0F28F56CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E7CBF2-50A5-410B-924F-3ED0F28F56CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E7CBF2-50A5-410B-924F-3ED0F28F56CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CCB293-6FAE-46DA-AC83-3CB8400B31D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CCB293-6FAE-46DA-AC83-3CB8400B31D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CCB293-6FAE-46DA-AC83-3CB8400B31D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CCB293-6FAE-46DA-AC83-3CB8400B31D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
